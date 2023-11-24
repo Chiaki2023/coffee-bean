@@ -372,7 +372,6 @@ img{
 .reservation{
     width:85%;
     margin:4em auto;
-    border:3px solid red;
     line-height: 200%;
 }
 
@@ -390,7 +389,6 @@ form{
     border-radius:5px;
     padding:2em;
     height:650px;
-    border:2px solid lime;
 }
 
 .form-group:nth-child(1){
