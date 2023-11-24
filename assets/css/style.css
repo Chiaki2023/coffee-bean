@@ -29,7 +29,7 @@ p{
 .wrapper{
     width:100%;
     margin:auto;
-    border:3px solid red;
+
     position:relative;
 }
 
@@ -234,7 +234,7 @@ img{
 }
 
 .discount h4{
-    border:2px solid orange;
+
     color:white;
     text-align: center;
     font-family: 'Raleway', sans-serif;
