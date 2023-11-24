@@ -83,7 +83,6 @@ margin-top:1em;
 
 
 .child0{
-    border: 2px solid red;
     text-transform: uppercase;
     color:#c7a17a;
     font-size:55px;
@@ -98,7 +97,6 @@ margin-top:1em;
 }
 
 .child1{
-    border: 2px solid red;
     color:white;
     font-size: small;
     position:absolute;
@@ -109,7 +107,6 @@ margin-top:1em;
 }
 
 .child3{
-    border: 2px solid red;
     font-size: small;
     color:white;
     background-color: #312a26;
@@ -124,14 +121,12 @@ margin-top:1em;
 
 /* Ads Area */
 .ads{
-    border:2px solid blue;
     width:100%;
     height:400px;
     /* position:relative; */
 }
 
 .ads-item1{
-    border:2px solid blue;
     background-image: url(../images/ads-img1.jpg);
     background-size: cover;
     width:500px;
@@ -141,7 +136,6 @@ margin-top:1em;
 }
 
 .ads-item2{
-    border:2px solid blue;
     background-image: url(../images/ads-img2.jpg);
     background-size: cover;
     width:500px;
@@ -162,7 +156,6 @@ margin-top:1em;
 }
 
 .ads-text{
-    border:2px solid blue;
     color:white;
     text-transform: uppercase;
     text-shadow: 3px 3px 6px black;
@@ -181,7 +174,6 @@ margin-top:1em;
 /* Merchandise Area*/
 
 .merch{
-    border:2px solid green;
     margin: 4em auto;
     width:85%;
     height:780px;
@@ -210,7 +202,6 @@ margin-top:1em;
 }
 
 img{
-    border:2px solid green;
     width:220px;
     height:230px;
 }
@@ -222,7 +213,6 @@ img{
 
 /* 5 Discount Area */
 .discount{
-    border:2px solid orange;
     margin: 4em auto;
     width:85%;
     height:300px;
@@ -243,7 +233,6 @@ img{
 }
 
 .discount h1{
-    border:2px solid orange;
     color:white;
     text-transform: uppercase;
     text-shadow: 2px 2px 2px black;
@@ -254,7 +243,6 @@ img{
 }
 
 .a3{
-    border:2px solid orange;
     height:4em;
     width:10em;
     padding-top:1em;
@@ -271,7 +259,6 @@ img{
 
 /* <!-- 6 Merchandise sale Area --> */
 .merch-sale{
-    border:2px solid green;
     margin: 4em auto;
     width:85%;
     height:500px;
@@ -306,7 +293,6 @@ img{
 }
 
 .sale-items img{
-    border:2px solid green;
     width:220px;
     height:230px;
     margin-top: 50px;
@@ -319,7 +305,6 @@ img{
 
 /* 7 Article Area */
 .article{
-    border:2px solid pink;
     margin: 4em auto;
     width:85%;
     height:600px;
@@ -334,7 +319,6 @@ img{
 }
 
 .art-item1{
-    border:2px solid pink;
     width:450px;
     height:250px;
     background-image: url(../images/ads-img3.jpg);
@@ -345,7 +329,6 @@ img{
 }
 
 .art-item2{
-    border:2px solid pink;
     width:450px;
     height:250px;
     background-image: url(../images/ads-img4.jpg);
@@ -354,7 +337,6 @@ img{
 }
 
 .art-item3{
-    border:2px solid pink;
     width:450px;
     height:250px;
     background-image: url(../images/ads-img5.jpg);
@@ -363,7 +345,6 @@ img{
 }
 
 .art-item4{
-    border:2px solid pink;
     width:450px;
     height:250px;
     background-image: url(../images/ads-img6.jpg);
@@ -372,7 +353,6 @@ img{
 }
 
 .art-text{
-    border:2px solid pink;
     width:200px;
     height:110px;
     color:white;
@@ -456,7 +436,6 @@ label input{
 /* form-left */
 
 .payment-card{
-    border:2px solid purple;
     width:300px;
     height:50px;
     background-image: url(..//images/reservation-cards.png);
@@ -470,7 +449,6 @@ label input{
 }
 
 .reservation button{
-    border:2px solid purple;
     width:34em;
     height:40px;
     background-color:#c7a17a;
@@ -485,7 +463,6 @@ label input{
     margin-top: 4em;
     margin-right: auto;
     margin-left: auto;
-    border:3px solid red;
     background-image: url(..//images/footer-img.jpg);
     background-size: cover;
 }
@@ -501,7 +478,6 @@ label input{
 }
 
 .open-hour{
-    border: 2px solid white;
     width:230px;
     height:250px;
     color:white;
@@ -509,7 +485,6 @@ label input{
 }
 
 .post{
-    border: 2px solid white;
     width:230px;
     height:250px;
     color:white;
@@ -532,7 +507,6 @@ label input{
 }
 
 .contact{
-    border: 2px solid white;
     width:230px;
     height:250px;
     color:white;
@@ -548,7 +522,6 @@ label input{
     height:35px;
 }
 .contact button{
-    border:2px solid white;
     width:6em;
     background-color:#c7a17a;
     font-weight: 900;
@@ -556,7 +529,6 @@ label input{
 }
 
 .location{
-    border: 2px solid white;
     width:230px;
     height:250px;
     color:white;
@@ -570,7 +542,6 @@ label input{
 /* 10 Footer Area */
 
 .footer{
-    border:2px solid lime;
     overflow: auto;
     width:85%;
     margin-right:auto;
@@ -580,7 +551,6 @@ label input{
 }
 
 .footer h1{
-    border:2px solid blue;
     width:200px;
     height:30px;
     font-size:20px;
@@ -589,7 +559,6 @@ label input{
 }
 
 .footer img{
-    border:2px solid blue;
     width:30px;
     height:30px;
     /* float:left; */
@@ -601,7 +570,6 @@ label input{
 }
 
 .footer p{
-    border:2px solid blue;
     width:200px;
     height:30px;
     font-size:small;
